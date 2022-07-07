@@ -1,0 +1,25 @@
+
+:root {
+
+            /* Color */
+
+    --color-common-hover: #fd4a36;
+    --color-common-title: #00142d;
+    --color-common-text: #565872;
+    --color-common-border: #e6e6e6;
+    --color-common-bg: #f6f6f6;
+    --color-common-white: #fff;
+    --color-common-black: #000;
+
+            /* Font-size */
+    --a-font-size: 15px;
+    --p-font-size: 16px;
+    --h2-font-size: 46px;
+    --h4-font-size: 28px;
+    --h5-font-size: 20px;
+    --span-font-size: 13px;
+    
+            /* Font-weight */
+    --font-weight-medium: 500;
+    --font-weight-high: 800;
+}
