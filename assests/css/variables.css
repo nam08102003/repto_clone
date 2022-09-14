@@ -2,7 +2,6 @@
 :root {
 
             /* Color */
-
     --color-common-hover: #fd4a36;
     --color-common-title: #00142d;
     --color-common-text: #565872;
@@ -22,4 +21,10 @@
             /* Font-weight */
     --font-weight-medium: 500;
     --font-weight-high: 800;
+}
+
+@media (max-width: 760px) {
+        :root {
+                --h2-font-size: 30px;
+        }
 }
